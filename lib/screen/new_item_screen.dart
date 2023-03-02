@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_firebase_app/services/item_service.dart';
+import 'package:flutter_firebase_app/services/item_services.dart';
 import 'package:logger/logger.dart';
 
 class NewItemScreen extends StatefulWidget {

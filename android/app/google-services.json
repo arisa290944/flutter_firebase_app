@@ -31,10 +31,10 @@
               "client_type": 3
             },
             {
-              "client_id": "542272859235-eh8rl0n4gm67sasvf58d6iuk5hs53gm6.apps.googleusercontent.com",
+              "client_id": "542272859235-001m8o82qrolcmnoigo75ktorci236s6.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.firebaseApp"
+                "bundle_id": "com.example.flutterFirebaseApp"
               }
             }
           ]
@@ -67,10 +67,10 @@
               "client_type": 3
             },
             {
-              "client_id": "542272859235-eh8rl0n4gm67sasvf58d6iuk5hs53gm6.apps.googleusercontent.com",
+              "client_id": "542272859235-001m8o82qrolcmnoigo75ktorci236s6.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.firebaseApp"
+                "bundle_id": "com.example.flutterFirebaseApp"
               }
             }
           ]

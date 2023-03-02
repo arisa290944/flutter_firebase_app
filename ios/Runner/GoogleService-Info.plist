@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>542272859235-001m8o82qrolcmnoigo75ktorci236s6.apps.googleusercontent.com</string>
+	<string>1048184616496-7r2jitkugvgg0egc2rto155l5enlrmhs.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.542272859235-001m8o82qrolcmnoigo75ktorci236s6</string>
+	<string>com.googleusercontent.apps.1048184616496-7r2jitkugvgg0egc2rto155l5enlrmhs</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDbgtVzoQD3lbZ0L0HIBkWEqvt_eQ8RrxM</string>
+	<string>AIzaSyC5CGTWgh8Bu0AMV1L2UvxrgI8kZ3VgIGo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>542272859235</string>
+	<string>1048184616496</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.flutterFirebaseApp</string>
 	<key>PROJECT_ID</key>
-	<string>mobile-lab-flutter-fireb-2e03d</string>
+	<string>mobile-lab-flutter-fierbase</string>
 	<key>STORAGE_BUCKET</key>
-	<string>mobile-lab-flutter-fireb-2e03d.appspot.com</string>
+	<string>mobile-lab-flutter-fierbase.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:542272859235:ios:9101f995065c42cb299c56</string>
+	<string>1:1048184616496:ios:505c3f6f8d49b8511f9ff5</string>
 </dict>
 </plist>

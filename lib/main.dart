@@ -1,11 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_firebase_app/screen/edit_item_scren.dart';
+import 'package:flutter_firebase_app/screen/edit_item_screen.dart';
 import 'package:flutter_firebase_app/screen/new_item_screen.dart';
 
 import 'firebase_options.dart';
-
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
